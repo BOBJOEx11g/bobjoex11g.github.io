@@ -7,4 +7,3 @@ Webiste is live at
 
 https://bobjoex11g.github.io/
 
-[https://bobjoex11g.github.io/]([url](https://bobjoex11g.github.io/))
